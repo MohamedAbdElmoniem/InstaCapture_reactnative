@@ -1,0 +1,3 @@
+rootProject.name = 'reacnative_instacapture'
+
+include ':app'
